@@ -1,0 +1,8 @@
+179
+403
+initial position - main buttons
+
+
+final loc 185 , 332
+
+show btn "
